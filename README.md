@@ -12,9 +12,9 @@
 
 ### Thank you for working with me :tada: 
 
-- :bow: I don't usually use this account.
 - :octocat: I use this account exclusively for work-related tasks within my company’s private [GitHub Organization](https://docs.github.com/en/organizations) or for contributing to OSS.  
 - :sunglasses: For personal or hobby projects, I use my separate [GitHub PRO](https://docs.github.com/en/github/getting-started-with-github/learning-about-github/githubs-products#github-pro) account instead.
+- :love_letter: Web Accessibility, Web Standards, Sushi, Ramen, Camera, and more.
 
 -----
 
